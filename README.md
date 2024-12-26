@@ -31,10 +31,6 @@ Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
 - MySQL Server
 - Edge Impulse CLI
 
-### Hardware
-- Microphone
--  DevKit (optional for AI integration)
-
 ---
 
 ## Installation
