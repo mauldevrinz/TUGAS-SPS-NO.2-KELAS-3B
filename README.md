@@ -100,7 +100,6 @@ pyqt6-voice-ai/
 ## Future Improvements
 - Add support for more languages in the translator.
 - Enhance the GUI for better user experience.
-- Optimize the trained model for low-latency performance on ESP32.
 
 ## Contributions
 Feel free to fork this repository and submit pull requests. Suggestions and improvements are welcome!
