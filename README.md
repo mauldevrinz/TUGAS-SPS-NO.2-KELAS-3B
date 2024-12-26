@@ -1,13 +1,13 @@
 ![alt text](https://github.com/mauldevrinz/TUGAS-SPS-NO.2-KELAS-3B/blob/main/GUI.png)
 # Voice Recorder and Translator with AI Training for ESP32
 
-This project demonstrates how to build a PyQt6 application for voice recording and automatic translation, which can upload the recorded data to MySQL and Edge Impulse for deep learning processing. The trained model will be converted into an Arduino library for ESP32, enabling it to classify audio inputs intelligently.
+This project demonstrates how to build a PyQt6 application for voice recording and automatic translation.
 
 ## Authors
-1. Rizal Khoirul Atok (2042231013)
-2. Egga Terbyd Fabryan (2042231029)
-3. Valencia Christina Setiowardhani (2042231055)
-4. Ahmad Radhy (Supervisor)
+1. Andik Putra Nazwana (2042231010)
+2. Andre Mahesa Bagaskara (2042231012)
+3. Akhmad Maulvin Nazir Zakaria (2042231028)
+4. Dwi Oktavianto Wahyu Nugroho (Supervisor)
 
 Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
 
@@ -17,7 +17,6 @@ Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
 2. **Automatic Translation**: Translate recorded audio into a target language.
 3. **Database Upload**: Store recorded and translated data into a MySQL database.
 4. **Edge Impulse Integration**: Upload audio data to Edge Impulse for training deep learning models.
-5. **ESP32 Integration**: Deploy the trained model to ESP32 for real-time audio classification.
 
 ## Requirements
 
@@ -26,11 +25,6 @@ Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
 - PyQt6
 - Edge Impulse CLI
 - MySQL Server
-- Arduino IDE with ESP32 Core
-
-### Hardware
-- ESP32
-- Microphone module INMP441 (for ESP32, optional for GUI testing)
 
 ## Installation
 
