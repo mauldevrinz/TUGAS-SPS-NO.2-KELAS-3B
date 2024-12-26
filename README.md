@@ -1,5 +1,5 @@
 
-# Voice Recorder and Translator with AI Training for ESP32
+# Voice Recorder and Translator with AI Training
 
 ## Authors
 1. Andik Putra Nazwana (2042231010)  
@@ -33,7 +33,7 @@ Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
 
 ### Hardware
 - Microphone
-- ESP32 DevKit (optional for AI integration)
+-  DevKit (optional for AI integration)
 
 ---
 
