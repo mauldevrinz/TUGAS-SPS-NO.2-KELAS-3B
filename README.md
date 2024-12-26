@@ -30,7 +30,7 @@ Teknik Instrumentasi - Institut Teknologi Sepuluh Nopember
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/atok99/kel.3_sps-edge-impuls-voice-command
+git clone https://github.com/mauldevrinz/TUGAS-SPS-NO.2-KELAS-3B
 cd pyqt6-voice-ai
 ```
 
@@ -60,9 +60,6 @@ npm install -g edge-impulse-cli
 edge-impulse-login
 ```
 
-### 5. Prepare ESP32
-Install the ESP32 core in Arduino IDE and ensure necessary libraries are installed.
-
 ## Usage
 
 ### 1. Run the PyQt6 Application
@@ -87,10 +84,6 @@ edge-impulse-uploader recordings/yourfile.wav
 ### 5. Train the Model
 - Train a model on Edge Impulse using the uploaded data.
 
-### 6. Export and Deploy to ESP32
-- Download the trained model as an Arduino library.
-- Include the library in your ESP32 Arduino project.
-- Use the model to classify real-time audio inputs.
 
 ## Project Structure
 ```
